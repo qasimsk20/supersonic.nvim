@@ -1,5 +1,6 @@
-<h1 align=center>supersonic.nvim</h1><div align="center">
-
+<h1 align=center>supersonic.nvim</h1>
+<div align="center">
+  
 ![GitHub last commit](https://img.shields.io/github/last-commit/qasimsk20/supersonic.nvim?style=for-the-badge&labelColor=101418&color=%2389b4fa)
 ![GitHub Repo stars](https://img.shields.io/github/stars/qasimsk20/supersonic.nvim?style=for-the-badge&labelColor=101418&color=%23cba6f7)
 ![Repo size](https://img.shields.io/github/repo-size/qasimsk20/supersonic.nvim?style=for-the-badge&labelColor=101418&color=%23d3bfe6)
